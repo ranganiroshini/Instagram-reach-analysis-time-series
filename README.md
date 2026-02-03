@@ -76,8 +76,7 @@ Detailed explanation of the analysis and results is available here:
 ## 👩‍💻 Author
 
 **Roshini Rangani**  
-Master’s Student – Data Analytics  
-Actively building real-world data analytics projects
+
 
 ---
 
